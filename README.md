@@ -18,6 +18,7 @@ A search button that added "Valorant Lore" to the end for more specific search r
 
 
 Quick screen select Example:
+
 ![image](https://github.com/kevnevv/OCR-GG-Python/assets/33120212/22c7bb53-4440-47e1-b6c9-2dc8280356f2)
 
 
